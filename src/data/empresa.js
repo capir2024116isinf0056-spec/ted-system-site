@@ -19,6 +19,12 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+        {
+
+      titulo: "Prestação de contas",
+    descricao: "Responder publicamente por decisões e resultados, com auditorias e métricas claras."
+
     }
   ],
   publicoAlvo:
@@ -55,6 +61,30 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+     
+    {
+      nome: "Sayete do Nascimento alves sousa ",
+      cargo: "Estagiária",
+      foto: "/images/sayete.jpg",
+      alt: "Foto de sayete Sousa",
+      descricao: "auxilar ."
+    },
+    {
+      nome: "isabelly de holanda silva sousa",
+      cargo: "Estagiária",
+      foto: "/images/isabelly.jpg",
+      alt: "Foto de isabelly Holanda",
+      descricao: "auxilar."
+},
+    {
+      nome: "lucas renan dixon",
+      cargo: "Estagiário",
+      foto: "/images/estagiario.jpg",
+      alt: "Foto de lucas renan dixon",
+      descricao: "auxilar."
+}
+
+    
   ]
 };
